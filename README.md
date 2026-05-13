@@ -36,3 +36,8 @@ Projenin donanım üzerindeki test senaryoları şu şekildedir:
 3. Cihazın enerjisi kesilip geri verildiğinde (ST-Link tak-çıkar), cihaz flash'tan okuma yapar ve 5 kere yanıp sönmeye devam eder.
 4. Cihaz çalışırken butona 3 saniye basılı tutulduğunda değer sadece 1 artarak 6 olur.
 5. Cihazın gücü kesilip, butona basılı tutularak güç verildiğinde ve 3 saniyeden fazla beklendiğinde sistem fabrika ayarlarına (4) geri döner.
+
+## 🎥 Uygulama Videosu
+Projenin çalışma kanıtını içeren YouTube videosuna aşağıdaki bağlantıdan ulaşabilirsiniz:
+
+-------------------------
