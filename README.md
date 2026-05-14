@@ -40,4 +40,4 @@ Projenin donanım üzerindeki test senaryoları şu şekildedir:
 ## 🎥 Uygulama Videosu
 Projenin çalışma kanıtını içeren YouTube videosuna aşağıdaki bağlantıdan ulaşabilirsiniz:
 
--------------------------
+https://youtu.be/hCLgzOpLwfQ
